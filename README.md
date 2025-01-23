@@ -1,6 +1,6 @@
 ---
     
-# Clasificación de Audios con Aprendizaje Profundo en Conjuntos de Datos Desequilibrados
+# Deep Learning-Based Audio Classification on Imbalanced Datasets
 
 <img src="resources/waveform.png" width="600">
 
